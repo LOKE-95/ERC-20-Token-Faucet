@@ -1,3 +1,4 @@
+/*This will work in a online complier as the local host cannot refer to the window.ethereum*/
 Beginners and developers lack a risk-free
 way to learn about and test blockchain
 technology. Our MintMe Token Faucet
