@@ -1,4 +1,4 @@
-ssssBeginners and developers lack a risk-free
+Beginners and developers lack a risk-free
 way to learn about and test blockchain
 technology. Our MintMe Token Faucet
 provides free tokens on a test network,
